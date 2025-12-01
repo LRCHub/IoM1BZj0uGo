@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青と踊れ",
+  "base_artist": "Rhythmic Toy World",
+  "createdAt": "2025-12-01T16:29:11.974041Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青と踊れ",
+      "artist": "Rhythmic Toy World",
+      "has_synced": false,
+      "path": "select/pl_01_青と踊れ_Rhythmic_Toy_World.txt"
+    }
+  ]
+}
